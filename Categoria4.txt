@@ -1,0 +1,5 @@
+¿Cuantos kilos son una tonelada?_1000_10000_100000_100_4
+¿Cual es la capital de italia?_Roma_Venecia_Napoles_Milan_4
+¿Quien pinto la monalisa?_Leonardo da Vinci_Picasso_Vicent van Gogh_Dali_4
+¿Cual es el lagarto mas grande del mundo?_Dragon de Komodo_Iguana Americana_Cocodrilo_Iguana Colombiana_4
+¿Cual es el pais con mayor poblacion del mundo?_China_Japon_India_USA

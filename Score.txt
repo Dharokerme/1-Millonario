@@ -1,0 +1,4 @@
+Jugador:Diana Marcela-Score:1000
+Jugador:Pedro-Score:1000
+Jugador:Salome-Score:1000
+Jugador:Ricardo Ortiz-Score:100000
